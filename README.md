@@ -31,7 +31,7 @@ Glitchy Animated Banner: Cool hacker-style effect in terminal
 ANSI Colors: Makes output visually appealing
 
 Installation
-git clone https://github.com/yourusername/retr0.git
+https://github.com/ilijamirkovic787-rgb/RETR0_-compiler
 cd retr0
 
 Files
